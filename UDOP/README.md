@@ -8,7 +8,7 @@
 ---
 
 ## 📌 TL;DR
-(한 줄 요약)
+UDOP은 텍스트·이미지·레이아웃을 통합된 표현으로 처리하는 Document AI 최초의 범용(Foundation) 모델로, 문서 이해와 생성을 동시에 수행하며, 특히 문서 이미지 편집·생성까지 가능한 SOTA 모델입니다.
 
 ## 🎯 Problem & Motivation
 (이 논문이 해결하려고 한 문제와 배경)
@@ -20,7 +20,6 @@
 
 ## 🔬 Method
 ### Overall Architecture
-(간단한 구조 설명 + 그림 있으면 포함)
 
 ### 핵심 기술
 - 
