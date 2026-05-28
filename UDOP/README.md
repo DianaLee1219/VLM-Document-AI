@@ -1,13 +1,15 @@
 # Unifying Vision, Text, and Layout for Universal Document Processing
 
 **Authors**:  Zineng Tang, Ziyi Yang, Guoxin Wang, Yuwei Fang, Yang Liu, Chenguang Zhu, Michael Zeng, Cha Zhang, Mohit Bansal
+
 **Published**: CVPR 2023
+
 **Link**: [Paper]([https://arxiv.org/abs/...](https://openaccess.thecvf.com/content/CVPR2023/html/Tang_Unifying_Vision_Text_and_Layout_for_Universal_Document_Processing_CVPR_2023_paper.html)) | 
 [Code](https://github.com/microsoft/i-Code/tree/main/i-Code-Doc) 
 
 ---
 
-## 📌 TL;DR
+## 📌 Introduction
 UDOP은 텍스트·이미지·레이아웃을 통합된 표현으로 처리하는 Document AI 최초의 범용(Foundation) 모델로, 문서 이해와 생성을 동시에 수행하며, 특히 문서 이미지 편집·생성까지 가능한 SOTA 모델입니다.
 
 ## 🎯 Problem & Motivation
@@ -20,6 +22,7 @@ UDOP은 텍스트·이미지·레이아웃을 통합된 표현으로 처리하�
 
 ## 🔬 Method
 ### Overall Architecture
+![image](https://github.com/user-attachments/assets/c4b898c9-d3dd-4167-9803-1fcdee48b775)
 
 ### 핵심 기술
 - 
