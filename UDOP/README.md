@@ -22,7 +22,7 @@ UDOP은 텍스트·이미지·레이아웃을 통합된 표현으로 처리하�
 
 ## 🔬 Method
 ### Overall Architecture
-![image](https://github.com/user-attachments/assets/c4b898c9-d3dd-4167-9803-1fcdee48b775)
+![image](https://github.com/user-attachments/assets/90f32426-1088-4247-8af0-193fbaf8b864)
 
 ### 핵심 기술
 - 
